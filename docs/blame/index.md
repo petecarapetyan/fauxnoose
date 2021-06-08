@@ -4,7 +4,7 @@ We always start here, and so should you!
 
 Concerned with pesky doubts and observations that challenge your beliefs, and even what's directly in front of you?
 
-Simply fire your dopamine circuits by blaming people that are not like us, and _**disabling depression turns into empowering anger,**_ and we can rail together against all _**those people**_ who might be different than _**us**_.
+Simply fire your dopamine circuits by blaming people that are not like us! _**Disabling depression becomes empowering anger,**_ and we can rail together against all _**those people**_ who might be different than _**us**_.
 
 Feel good! Be angry!
 

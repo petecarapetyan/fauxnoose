@@ -1,21 +1,7 @@
 ---
-title: Lorem Ipsum!
+title: Satire for my friends who like dopamine receptor jokes.
 layout: layout-home
-slogan: magna reprehenderit nisi nulla mollit irure magna duis
-
-feature:
-  title: occaecat aliquip laboris mollit deserunt
-  text: >-
-    Cillum Lorem duis in amet sit cupidatat eu do commodo elit excepteur.
-    Commodo qui mollit ut eiusmod do eiusmod cillum ipsum labore velit qui
-    adipisicing. Culpa ullamco aliqua velit voluptate eu ullamco dolor. Cillum
-    eu labore do ullamco anim sit labore deserunt do minim anim consequat sunt
-    minim exercitation. Nostrud incididunt non ea labore ipsum.
-  href: /believe/irure/
-  img: >-
-    <img class="bordered"
-    src="/_merged_assets/_static/images/bulksplash-dzhahua-qVcptKTaMN8.jpg"
-    alt="bulksplash-dzhahua-qVcptKTaMN8.jpg" />
+slogan: Dopamine addiction, and how to be a billionaire by leading giant swaths of the population around by the dopamine equivalent of their short-hairs
 
 teasers:
   - title: Explanation

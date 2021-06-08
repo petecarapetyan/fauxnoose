@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'Faux Noose',
-    description: 'Comedic satire on dopamine addiction, and how to be an Australian billionaire by leading giant swaths of the population around by the dopamine equivalent of their short-hairs.',
+    description: 'Comedic satire on dopamine receptors.',
     socialLinks: [
       {
         name: 'GitHub',

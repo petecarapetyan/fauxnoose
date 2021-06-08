@@ -1,3 +1,9 @@
+.markdown-body {
+  padding: 20px;
+}
+.ga-head3-main {
+  padding:50px;
+}
 .ga-head-l, .ga-head-r {
   background-color:lightgray;
 }

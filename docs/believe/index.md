@@ -1,10 +1,12 @@
 # Believe
 
-There's no sense in making your own observations when we can fire your dopamine receptors for you!
+There is no sense in making your own observations when we can fire your dopamine receptors for you!
 
-Let us take any core beliefs that you may have, and expand them by finding corroborating evidence.
+Let us take any beliefs that you may prefer, and expand them by finding corroborating evidence, no matter how flimsy. Remember,arguments can always be made, no matter what logic. We hire the best debaters, and pay them millions of dollars a year to argue your favorite beliefs.
 
-Truth can be depressing! We can work together, to come up with our own truths, and then bounce them around in our own echo chamber in an infite gratuitous loop.
+Tune in!
+
+Truth can be depressing! Working together, we come up with _**our own better versions of truth**_, and then bounce them around in our own echo chamber, in an infite, gratuitous loop.
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-hyneseyes-zLrqHNms8eE.jpg" alt="bulksplash-hyneseyes-zLrqHNms8eE.jpg" />
 

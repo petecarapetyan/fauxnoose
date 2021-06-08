@@ -48,11 +48,10 @@ teasers:
       <img class="bordered"
       src="/_merged_assets/_static/images/bulksplash-derekleej-fgV7m-9oVL0.jpg"
       alt="bulksplash-derekleej-fgV7m-9oVL0.jpg" />
-  - title: tempor in sint cillum nisi
+  - title: Mean Spirited?
     text: >-
-      Occaecat fugiat commodo deserunt aliqua veniam culpa. Fugiat sunt dolor
-      ullamco officia tempor ut laboris ea cillum ut id enim nisi commodo.
-    href: /blame/
+      Is thi site mean spirited?
+    href: /blame/author/
     img: >-
       <img class="bordered"
       src="/_merged_assets/_static/images/bulksplash-jxk-X-7Jws4oeeg.jpg"

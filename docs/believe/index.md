@@ -1,4 +1,10 @@
-# Minim
+# Believe
+
+There's no sense in making your own observations when we can fire your dopamine receptors for you!
+
+Let us take any core beliefs that you may have, and expand them by finding corroborating evidence.
+
+Truth can be depressing! We can work together, to come up with our own truths, and then bounce them around in our own echo chamber in an infite gratuitous loop.
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-hyneseyes-zLrqHNms8eE.jpg" alt="bulksplash-hyneseyes-zLrqHNms8eE.jpg" />
 

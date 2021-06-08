@@ -1,8 +1,12 @@
-# Irure
+# Invitation
 
-## enim aute
+## Yo
 
-Do pariatur magna do do sint in sint eu aliqua exercitation ipsum ullamco nisi do. Qui quis magna dolore. Consectetur elit voluptate laboris irure nostrud fugiat excepteur sint ullamco. Ut consequat ullamco ea ea tempor nulla officia quis nulla et ea cillum anim. Aliqua velit cillum excepteur ipsum ea consequat mollit ut ut eu tempor.
+This site was started as a joke but still, it's pretty ripe territory for more humor.
+
+Please feel free to submit any new content in any form which pleases you. You could use github issues, or do a PR, or if you know me already make a personal contact.
+
+It's all markdown (think text) so you don't have to send any formatting unless you want to.
 
 ## excepteur
 

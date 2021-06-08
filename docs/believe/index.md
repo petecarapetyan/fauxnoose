@@ -6,7 +6,7 @@ Let us take any beliefs that you may prefer, and expand them by finding corrobor
 
 Tune in!
 
-Truth can be depressing! Working together, we come up with _**our own better versions of truth**_, and then bounce them around in our own echo chamber, in an infite, gratuitous loop.
+Truth can be depressing! Working together, we come up with _**our own better versions of truth**_, and then bounce them around in our own echo chamber in an infinite, gratuitous loop.
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-hyneseyes-zLrqHNms8eE.jpg" alt="bulksplash-hyneseyes-zLrqHNms8eE.jpg" />
 

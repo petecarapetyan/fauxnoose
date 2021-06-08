@@ -4,9 +4,11 @@
 
 This site was started as a joke but still, it's pretty ripe territory for more humor.
 
-Please feel free to submit any new content in any form which pleases you. You could use github issues, or do a PR, or if you know me already make a personal contact.
+Please feel free to submit any new content in any form which pleases you. You could use [github issues](https://github.com/petecarapetyan/fauxnoose/issues/new), or do a PR, or if you know me already - make a personal contact.
 
 It's all markdown (think text) so you don't have to send any formatting unless you want to.
+
+Response time will probably be ridiculously slow. I'm still a working stiff, so that always gets my first focus.
 
 ## excepteur
 

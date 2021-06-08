@@ -41,13 +41,6 @@ teasers:
       <img class="bordered"
       src="/_merged_assets/_static/images/bulksplash-alex_andrews-Hx2LzoAPMmU.jpg"
       alt="bulksplash-alex_andrews-Hx2LzoAPMmU.jpg" />
-  - title: sint duis
-    text: Ullamco Lorem elit excepteur et quis laborum sint cillum voluptate.
-    href: /belittle/magna/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-derekleej-fgV7m-9oVL0.jpg"
-      alt="bulksplash-derekleej-fgV7m-9oVL0.jpg" />
   - title: Mean Spirited?
     text: >-
       Is thi site mean spirited?
@@ -56,6 +49,13 @@ teasers:
       <img class="bordered"
       src="/_merged_assets/_static/images/bulksplash-jxk-X-7Jws4oeeg.jpg"
       alt="bulksplash-jxk-X-7Jws4oeeg.jpg" />
+  - title: sint duis
+    text: Ullamco Lorem elit excepteur et quis laborum sint cillum voluptate.
+    href: /belittle/magna/
+    img: >-
+      <img class="bordered"
+      src="/_merged_assets/_static/images/bulksplash-derekleej-fgV7m-9oVL0.jpg"
+      alt="bulksplash-derekleej-fgV7m-9oVL0.jpg" />
   - title: deserunt aute
     text: >-
       Consectetur tempor incididunt aliquip reprehenderit nostrud irure Lorem

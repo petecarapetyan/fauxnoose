@@ -10,4 +10,4 @@ Feel good! Be angry!
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-claudialam-tykheFGdyZA.jpg" alt="bulksplash-claudialam-tykheFGdyZA.jpg" />
 
-Note: Blame also works as a perfect foil for anyone who would challenge our motives. _**They do it too**_, doesn't even matter who "they" is. We are blameless. End of conversation!
+Note: Blame also works as a perfect foil for anyone who would challenge our motives. _**"They do it too!"**_, and it doesn't even matter who "they" is. So there you have it. We are blameless. _[Q.E.D.](https://en.wikipedia.org/wiki/Q.E.D.) Proof_

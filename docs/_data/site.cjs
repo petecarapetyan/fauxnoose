@@ -7,7 +7,7 @@ module.exports = function () {
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-apnews/src/docs',
+        url: 'https://github.com/petecarapetyan/fauxnoose',
       },
       {
         name: 'Twitter',

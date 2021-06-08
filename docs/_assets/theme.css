@@ -34,6 +34,10 @@ body[layout^='layout-home'] #main-header,
   font-family: 'Audiowide', sans-serif;
 }
 
+#main-header .logo-link {
+  display: block;
+}
+
 .logo-link img {
   width: 120px;
   height: 120px;

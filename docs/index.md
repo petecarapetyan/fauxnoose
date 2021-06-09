@@ -1,7 +1,7 @@
 ---
 title: Satire for my friends who like dopamine receptor jokes.
 layout: layout-home
-slogan: Dopamine addiction, and how to be a billionaire by leading giant swaths of the population around by the dopamine equivalent of their short-hairs
+slogan: Satirical site about dopamine addiction, and how to make billions by leading giant swaths of the population around by the dopamine equivalent of their short-hairs
 
 teasers:
   - title: Explanation

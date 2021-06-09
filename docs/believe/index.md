@@ -1,10 +1,10 @@
 # Believe
 
-There is no sense in making your own observations when we can fire your dopamine receptors for you!
+Let us fire your dopamine receptors for you!
 
-Let us take any beliefs that you may prefer, and expand them by finding corroborating evidence, no matter how flimsy. Remember,arguments can always be made, no matter what logic. We hire the best debaters, and pay them millions of dollars a year to argue your favorite beliefs.
+We'll take any beliefs that you prefer, and expand them by finding corroborating evidence, no matter how flimsy or nonsensical. Remember, arguments can always be made, no matter what the logic is! We hire the best debaters, and pay them millions of dollars a year to argue your favorite beliefs.
 
-Tune in!
+Instant gratification. Tune in!
 
 Truth can be depressing! Working together, we come up with _**our own better versions of truth**_, and then bounce them around in our own echo chamber in an infinite, gratuitous loop.
 

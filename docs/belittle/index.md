@@ -1,4 +1,4 @@
-# Belittle
+# Belittle || 30 
 
 The [ad-hominen attack](https://en.wikipedia.org/wiki/Ad_hominem) works as the perfect dopamine trigger for all your concerns! We're here to make those attacks for you, and to make them stick.
 

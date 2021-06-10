@@ -6,7 +6,7 @@ Concerned with pesky doubts and observations that challenge your beliefs, and ev
 
 Simply fire your dopamine circuits by blaming people that are not like us! _**Disabling depression becomes empowering anger,**_ and we can rail together against all _**those people**_ who might be different than _**us**_.
 
-Feel good! Be angry!
+Feel powerful! Be angry!
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-claudialam-tykheFGdyZA.jpg" alt="bulksplash-claudialam-tykheFGdyZA.jpg" />
 
